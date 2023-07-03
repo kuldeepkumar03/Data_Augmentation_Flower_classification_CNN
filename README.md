@@ -7,9 +7,13 @@ This repository contains a basic Convolutional Neural Network (CNN) code for flo
 Before running the code, make sure you have the following dependencies installed:
 
 Python (version 3.6 or later)
+
 TensorFlow (version 2.0 or later)
+
 Keras (version 2.3 or later)
+
 NumPy
+
 Matplotlib
 
 ## Dataset
