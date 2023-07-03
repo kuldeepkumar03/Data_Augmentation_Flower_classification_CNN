@@ -6,15 +6,15 @@ This repository contains a basic Convolutional Neural Network (CNN) code for flo
 
 Before running the code, make sure you have the following dependencies installed:
 
-Python (version 3.6 or later)
+* Python (version 3.6 or later)
 
-TensorFlow (version 2.0 or later)
+* TensorFlow (version 2.0 or later)
 
-Keras (version 2.3 or later)
+* Keras (version 2.3 or later)
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
 ## Dataset
 The code assumes that you have a dataset of flower images organized into different classes. Each class should have its own folder containing the respective flower images. The dataset should be split into training and testing sets.
